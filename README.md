@@ -1,16 +1,29 @@
-### Hi there 👋
+# Hi there 👋
 
-<!--
-**kimjeffrey/kimjeffrey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Jeffrey Kim and I'm a front-end/full-stack developer currently enjoying using React to make exciting websites and apps. 
 
-Here are some ideas to get you started:
+## Technologies I'm Using
+![HTML5](https://img.shields.io/badge/-HTML5-f3f3f3?style=flat-square&logo=html5)
+![CSS3](https://img.shields.io/badge/-CSS3-f3f3f3?style=flat-square&logo=css3&logoColor=blue)
+![SASS](https://img.shields.io/badge/-SASS-f3f3f3?style=flat-square&logo=Sass)
+![JavaScript](https://img.shields.io/badge/-JavaScript-f3f3f3?style=flat-square&logo=javascript)
+![React](https://img.shields.io/badge/-React-f3f3f3?style=flat-square&logo=react)
+![Redux](https://img.shields.io/badge/-Redux-f3f3f3?style=flat-square&logo=redux&logoColor=593D88)
+![Next.js](https://img.shields.io/badge/Next.js-f3f3f3?style=flat-square&logo=next.js&logoColor=black)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Nodejs](https://img.shields.io/badge/-Nodejs-f3f3f3?style=flat-square&logo=Node.js)
+![Expressjs](https://img.shields.io/badge/-Express-f3f3f3?style=flat-square&logo=Express&logoColor=black)
+![MongoDB](https://img.shields.io/badge/-MongoDB-f3f3f3?style=flat-square&logo=mongodb)
+![Git](https://img.shields.io/badge/-Git-f3f3f3?style=flat-square&logo=git)
+
+## Projects
+| Name | Technologies |
+| ----- | ------ |
+| [Personal Website](https://github.com/kimjeffrey/kimjeffrey.github.io) | ![HTML5](https://img.shields.io/badge/-HTML5-f3f3f3?style=flat-square&logo=html5) ![CSS3](https://img.shields.io/badge/-CSS3-f3f3f3?style=flat-square&logo=css3&logoColor=blue) ![JavaScript](https://img.shields.io/badge/-JavaScript-f3f3f3?style=flat-square&logo=javascript) |
+| [Fruit Shop](https://github.com/kimjeffrey/Ecommerce-Practice-Fruit-Shop) | ![React](https://img.shields.io/badge/-React-f3f3f3?style=flat-square&logo=react) ![Redux](https://img.shields.io/badge/-Redux-f3f3f3?style=flat-square&logo=redux&logoColor=593D88) ![Nodejs](https://img.shields.io/badge/-Nodejs-f3f3f3?style=flat-square&logo=Node.js) ![Expressjs](https://img.shields.io/badge/-Express-f3f3f3?style=flat-square&logo=Express&logoColor=black) ![MongoDB](https://img.shields.io/badge/-MongoDB-f3f3f3?style=flat-square&logo=mongodb) |
+| [Mobile Weather App](https://github.com/kimjeffrey/Mobile-Weather-App) | ![React](https://img.shields.io/badge/-React-f3f3f3?style=flat-square&logo=react)
+| [Twitter Clone](https://github.com/kimjeffrey/twitter-clone) | ![Next.js](https://img.shields.io/badge/Next.js-f3f3f3?style=flat-square&logo=next.js&logoColor=black) ![SASS](https://img.shields.io/badge/-SASS-f3f3f3?style=flat-square&logo=Sass) ![MongoDB](https://img.shields.io/badge/-MongoDB-f3f3f3?style=flat-square&logo=mongodb)
+| [Habit Reminder Extension](https://github.com/kimjeffrey/Habit-Reminder-Extension) | ![JavaScript](https://img.shields.io/badge/-JavaScript-f3f3f3?style=flat-square&logo=javascript) ![HTML5](https://img.shields.io/badge/-HTML5-f3f3f3?style=flat-square&logo=html5) ![CSS3](https://img.shields.io/badge/-CSS3-f3f3f3?style=flat-square&logo=css3&logoColor=blue)  |
+| [Calculator](https://github.com/kimjeffrey/Javascript-Calculator-App) | ![JavaScript](https://img.shields.io/badge/-JavaScript-f3f3f3?style=flat-square&logo=javascript) ![HTML5](https://img.shields.io/badge/-HTML5-f3f3f3?style=flat-square&logo=html5) ![CSS3](https://img.shields.io/badge/-CSS3-f3f3f3?style=flat-square&logo=css3&logoColor=blue)  |
+| [Green Light Color Game](https://github.com/kimjeffrey/Green-Light-Game) | ![JavaScript](https://img.shields.io/badge/-JavaScript-f3f3f3?style=flat-square&logo=javascript) ![HTML5](https://img.shields.io/badge/-HTML5-f3f3f3?style=flat-square&logo=html5) ![CSS3](https://img.shields.io/badge/-CSS3-f3f3f3?style=flat-square&logo=css3&logoColor=blue) |
+| [Landing pages CSS practice](https://github.com/kimjeffrey/landing-pages-practice) | ![HTML5](https://img.shields.io/badge/-HTML5-f3f3f3?style=flat-square&logo=html5) ![SASS](https://img.shields.io/badge/-SASS-f3f3f3?style=flat-square&logo=Sass) ![JavaScript](https://img.shields.io/badge/-JavaScript-f3f3f3?style=flat-square&logo=javascript) |
